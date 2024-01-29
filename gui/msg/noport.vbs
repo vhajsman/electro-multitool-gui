@@ -1,0 +1,1 @@
+MsgBox("Zarizeni neni pripojeno k vybranemu portu nebo nepracuje zpravne.", 16, "MT GUI");
