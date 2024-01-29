@@ -1,0 +1,23 @@
+{
+  "name": "emt-gui",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhajsman/electro-multitool-gui.git"
+  },
+  "author": "Václav Hajšman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhajsman/electro-multitool-gui/issues"
+  },
+  "homepage": "https://github.com/vhajsman/electro-multitool-gui#readme",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
